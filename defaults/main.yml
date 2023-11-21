@@ -1,0 +1,6 @@
+---
+# defaults file for unarchivedeps_win
+unarchivedeps_win_privilege_escalation: false
+unarchivedeps_win_privilege_escalation_user: System
+unarchivedeps_win_modules:
+  - Pscx
